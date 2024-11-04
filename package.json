@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.led25",                              
+  "displayName": "Integer to Led Grid 25",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Based on the MicroBit Led Grid 5x5.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_11_03_IntegerCmdTo25Leds.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
